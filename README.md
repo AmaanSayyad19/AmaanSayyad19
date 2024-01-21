@@ -30,3 +30,6 @@ Thanks for visiting my profile! ☺️
 
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmaanSayyad19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername)](https://github.com/ryo-ma/github-profile-trophy)
+
