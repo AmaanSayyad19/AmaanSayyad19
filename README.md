@@ -31,7 +31,7 @@ Thanks for visiting my profile! ☺️
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaanSayyad19&theme=github)
 
 
-![GitHub Trophies](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaanSayyad19&theme=github)
+
 
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmaanSayyad19)](https://github.com/ryo-ma/github-profile-trophy)
