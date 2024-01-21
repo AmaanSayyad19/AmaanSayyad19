@@ -5,7 +5,7 @@ Thanks for visiting my profile! ☺️
 
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: amaansayyad246@gmail.com
-- 🌐 View my portfolio at: 
+- 🌐 View my portfolio
 </b>
 
 
