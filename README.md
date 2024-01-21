@@ -18,3 +18,11 @@ Thanks for visiting my profile! ☺️
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSayyad19&layout=compact&langs_count=10&bg_color=171c28&text_color=f5f0e1&title_color=eba830)
 
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaanSayyad19&theme=github)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaanSayyad19&theme=github)
+
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaanSayyad19&theme=github)
+
+![GitHub Trophies](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaanSayyad19&theme=github)
+
