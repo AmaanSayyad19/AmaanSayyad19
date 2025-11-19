@@ -3,7 +3,7 @@
 <b>
 Thanks for visiting my profile! ☺️
 
-- 📍 Calgary, Alberta, Canada
+- 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: amaansayyad246@gmail.com
 - 🌐 View my portfolio
 </b>
